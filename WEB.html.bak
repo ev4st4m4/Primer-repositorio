@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>  <link rel ="shortcut icon" href="img/world.png" > 
+
+  <title> LINKS </title>
+ </head>
+
+ <body background="img/cea4b46b7bf38bf86ce2e1a24526b9cc.jpg" width="736" height="552">
+ <body style="background-size:100%">
+
+		  <a href="CAST.html"><img src="img/FBI.png" width="100" height="100" border="0" alt="" align="right" title="Personajes" ></a>
+		  <a href="index.html"><img src="img/burnearth.png" width="128" height="128" border="0" alt="" align="left" title="HOME"></a>
+		   <a href="MULTIMEDIA.html"><img src="img/audio.png" width="100" height="100" border="0" alt="" align="left" title="Multimedia"></a>
+		   <a href="BIBLIO.html"><img src="img/Sin título4.png" width="100" height="100" border="0" alt="" align="right" title="Biblioteca"></a>
+		  <!--  <a href="GAME.html"><img src="img/game.png" width="100" height="100" border="0" alt="" align="right" title="Juegos"></a> -->
+
+	  <center>
+ 	<table style="padding-top:13% " > <!-- espacio entre la table y la cabecera/titulo -->
+		<tr>	  			
+			<td>			
+			     <a href="http://archiveofourown.org/tags/Fox%20Mulder*s*Dana%20Scully/works.html" target="_blank">
+				 <img src="img/typing.png" width="170" height="170" border="0" alt="" title="Relatos" ></a>	
+				 <!-- title= informacion al pasar el cursor sobre la imagen -->
+			</td>
+			<td>
+				  <a href="http://www.imdb.com/title/tt0106179/"target="_blank">
+				  <img src="img/imdb.png" width="170" height="170" border="0" alt="" title="IMDB"></a>
+			</td>
+			<td>	 
+				<a href="https://es.wikipedia.org/wiki/The_X-Files"target="_blank">
+				<img src="img/wiki.png" width="170" height="170" border="0" alt="" title="Wikipedia"></a>						 
+			</td>
+			<td>	 
+				<a href="http://www.funtrivia.com/quizzes/television/x-files/x-files_-_quotes.html"target="_blank">
+				<img src="img/puzzle.png" width="170" height="170" border="0" alt="" title="Trivial"></a>	
+			</td>
+	   </tr>
+
+	   <tr>
+			 <td>
+			 <a href="http://xfilesnews.tumblr.com/navigation"target="_blank">
+			 <img src="img/xfNews.png" width="170" height="170" border="0" alt="" title="Noticias"></a>
+			 </td>
+
+			  <td>	<a href="https://en.wikiquote.org/wiki/The_X-Files"target="_blank">
+			  <img src="img/i_want_to_believe_by_blackmulticolor-d8taqjv.png" width="170" height="170" border="0" alt="" title="Quotes">
+			 </td>	   
+			 <td>
+			 <a href="https://www.youtube.com/results?search_query=the+x+files+music+video+"target="_blank">
+			 <img src="img/icon-play-red.png" width="170" height="170" border="0" alt="" title="Videos musicales"></a>
+			 </td>
+
+			<td><a href="https://www.duchovnycentral.com"target="_blank"><img src="img/DD.jpg" width="170" height="170" border="0" alt="" title=" DD "></a>
+									<!-- http://www.duchovniacs.com/ -->
+			</td>  
+		 </tr>
+
+		 <tr>	
+			<td>
+			<a href="http://www.insidethex.co.uk"target="_blank"><img src="img/Sin título2.png" width="170" height="170" border="0" alt="" title="XF UK"></a>
+			</td>
+
+			<td><a href="http://x-files.wikia.com/wiki/Main_Page"target="_blank"><img src="img/R08QLImH.jpg" width="170" height="170" border="0" alt="" title="FANDOM"></a>
+
+			</td>
+			 <td>		
+			 <a href="https://www.disneyplus.com/es-es/browse/entity-d6a7aec6-72d2-46bb-b337-2cb412df64c8"target="_blank">
+			 <img src="img/disneyLogo.png" width="170" height="100" border="0" alt="" title="FOX oficial"></a>
+			 </td>	
+			
+
+			<td><a href="http://gillianderson.wordpress.com/"target="_blank"><img src="img/GAlips.jpg" width="170" height="170" border="0" alt="" title="GA"></a>
+									<!-- https://gillianderson.wordpress.com/ -->
+
+			</td>	  		 
+		 </tr>
+
+ 	   </table>
+		</center>	 
+			 
+ </body>
+</html>
